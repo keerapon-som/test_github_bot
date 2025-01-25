@@ -13,3 +13,13 @@
 |Bot 1|Hello Bot 1|Add Hello Bot 1|5s|this is eiei bot 1|2025-01-25 15:57:59.177383875 +0700 +07 m=+6.995741626
 |Bot 1|Hello Bot 1|Add Hello Bot 1|5s|this is eiei bot 1|2025-01-25 15:58:04.177236042 +0700 +07 m=+11.995744459
 |Bot 1|Hello Bot 1|Add Hello Bot 1|5s|this is eiei bot 1|2025-01-25 15:58:09.17708225 +0700 +07 m=+16.995740917
+|Bot 1|Hello Bot 1|Add Hello Bot 1|20s|this is eiei bot 1|2025-01-25 09:21:21.125095078 +0000 UTC m=+21.837329294
+|Bot 1|Hello Bot 1|Add Hello Bot 1|20s|this is eiei bot 1|2025-01-25 09:23:00.891999666 +0000 UTC m=+20.718864626
+|Bot 1|Hello Bot 1|Add Hello Bot 1|20s|this is eiei bot 1|2025-01-25 09:23:20.890497652 +0000 UTC m=+40.718867501
+|I am bot 2|what's up dude bot 2|bot 2 commit na|45s|Bot 2 naja|2025-01-25 09:23:25.890470568 +0000 UTC m=+45.718840418
+|Bot 1|Hello Bot 1|Add Hello Bot 1|20s|this is eiei bot 1|2025-01-25 09:23:40.890501861 +0000 UTC m=+60.718871710
+|Bot 1|Hello Bot 1|Add Hello Bot 1|20s|this is eiei bot 1|2025-01-25 09:24:00.889828971 +0000 UTC m=+80.718866418
+|I am bot 2|what's up dude bot 2|bot 2 commit na|45s|Bot 2 naja|2025-01-25 09:24:10.889802305 +0000 UTC m=+90.718839793
+|Bot 1|Hello Bot 1|Add Hello Bot 1|20s|this is eiei bot 1|2025-01-25 09:24:20.885425041 +0000 UTC m=+100.718871168
+|Bot 1|Hello Bot 1|Add Hello Bot 1|20s|this is eiei bot 1|2025-01-25 09:24:40.885419874 +0000 UTC m=+120.718866002
+|I am bot 2|what's up dude bot 2|bot 2 commit na|45s|Bot 2 naja|2025-01-25 09:24:55.882595069 +0000 UTC m=+135.718838793
